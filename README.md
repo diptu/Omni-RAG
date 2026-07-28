@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="Owl.jpeg alt="Wise Owl>
 # Omni-RAG 🚀
+<div align="center">
+  <img src="Owl.jpeg" alt="Wise Owl width="250" height="250">
+
 
 
 > **A Production-Grade, Domain-Agnostic Retrieval-Augmented Generation Engine**
